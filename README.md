@@ -88,3 +88,15 @@ The following sections detail the technical components and features of each page
     <li> <a href="https://eyes.nasa.gov/apps/exo/#/">Eyes on Exoplanets</a> </li>
     <li> <a href="https://exoplanets.nasa.gov/exep/">NASA Exoplanet Exploration Program</a> </li>
 </ul>
+<!--
+1. cmd : wmic os get osarchitecture  -> checking bit of pc / laptop
+2. https://www.msys2.org/ -> installation download
+3. mysys2 poping on ur scren ->  pacman -S --needed base-devel mingw-w64-ucrt-x86_64-toolchain -> enter ->enter 
+4. file explorer -> local disk (c) -> mysys64 folder -> ucrt64 folder -> bin click -> copy path 
+5. search on your window search button -> edit environment variables -> path( user windows nav) -> new -> paster path 
+6. cmd -> gcc --version 
+7. vscode -> extension -> c/c++ (microsoft) install -> 
+8. reopen vscode -> run the c code 
+9. vscode -> top center file name click-> c/c++: g++.exe built and debug 
+
+-->
